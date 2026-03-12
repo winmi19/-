@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "3320d39a76322241",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3d4000c7a751025",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa54799804de3d15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "快捷键/vscode快捷键.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "vscode快捷键"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2cdb9cd7e85b9933",
+    "type": "split",
+    "children": [
+      {
+        "id": "3548f25a19f82c14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e96cbdd225b77025",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "2fa32afa790b2876",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "bc27e3281baeeece",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 206.5
+  },
+  "right": {
+    "id": "e5036f51d634760d",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b23169d73cce6d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "667120169e89a83d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "当前任务/学业待办.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "学业待办 的反向链接列表"
+            }
+          },
+          {
+            "id": "b8f024b609950777",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "当前任务/学业待办.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "学业待办 的出链列表"
+            }
+          },
+          {
+            "id": "b04de9b5075da3b1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "4c9cdc082e77683a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "ae44a741ded87a17",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DINOv2 离线环境详细部署步骤.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "DINOv2 离线环境详细部署步骤 的大纲"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false
+    }
+  },
+  "active": "aa54799804de3d15",
+  "lastOpenFiles": [
+    "命令操作/pytorch相关包.md",
+    "命令操作/push全过程.md",
+    "命令操作/powershell.md",
+    "命令操作/git命令.md",
+    "命令操作/excel.md",
+    "命令操作/docker.md",
+    "命令操作/解压.md",
+    "快捷键/vscode快捷键.md",
+    "当前任务/学业待办.md",
+    "当前任务/深度学习.md",
+    "快捷键/win快捷键.md",
+    "数据集.md",
+    "快捷键/未命名",
+    "数据采集.md",
+    "dinov2测试问题.md",
+    "Pasted image 20251231165836.png",
+    "Pasted image 20251205140340.png",
+    "docker/DINOv2 离线环境详细部署步骤.md",
+    "docker/DINO.md",
+    "Pasted image 20251129112306.png",
+    "Pasted image 20251231103739.png",
+    "docker/V-JEPA.md",
+    "docker/MAE (Masked Autoencoders) 离线训练环境部署手册.md",
+    "未命名/未命名",
+    "未命名",
+    "ai使用/gemini3-pro.md",
+    "快捷键",
+    "未命名.md",
+    "当前任务",
+    "集成电路/集成电路（deepseek).md",
+    "集成电路/自己修改.md",
+    "未命名 1.md",
+    "集成电路/gemini3范文.md",
+    "docker",
+    "集成电路/Gemini3 .2.md",
+    "集成电路",
+    "dinov2创建.md",
+    "ai使用",
+    "未命名 2",
+    "未命名 1"
+  ]
+}

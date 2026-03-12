@@ -1,0 +1,294 @@
+{
+  "main": {
+    "id": "85e3e80e2434beaa",
+    "type": "split",
+    "children": [
+      {
+        "id": "d89b8e456ded6e3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0da9d0bf759e09a5",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "网站的使用/网址大全.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "网址大全"
+            }
+          },
+          {
+            "id": "1285545bad98f1f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Winnie's notebook/key/password.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "password"
+            }
+          },
+          {
+            "id": "82ddd0f000656962",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Winnie's notebook/四个docker容器/V-JEPA.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "V-JEPA"
+            }
+          },
+          {
+            "id": "0f120acfb8788699",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "五个自监督模型分析/vjepa.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "vjepa"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "edd656b2289d34d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae017f32acb2bed3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6a5524e6cf7040c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "57e7dcf569b40351",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "c2f2ca16ba4245b1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "a165f1d61809a553",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c3a5b7db248c756",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d602fca131e4d62f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "dairy/学习心得.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "学习心得 的反向链接列表"
+            }
+          },
+          {
+            "id": "4d26f5f17b60e13d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Winnie's notebook/机器学习.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "机器学习 的出链列表"
+            }
+          },
+          {
+            "id": "bc0dc111c8dffc3e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "436b2f56e9935e6f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "fc80c1ab8a2cee5f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "五个自监督模型分析/vjepa.md",
+                "followCursor": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "vjepa 的大纲"
+            }
+          },
+          {
+            "id": "617e84b0acca5546",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 213.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:新建数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false
+    }
+  },
+  "active": "0f120acfb8788699",
+  "lastOpenFiles": [
+    "五个自监督模型分析/ijepa.md",
+    "Winnie's notebook/key/gemini3-pro（私密）.md",
+    "Winnie's notebook/key/password.md",
+    "蓝桥杯备赛.md",
+    "笔记本选本.md",
+    "linux终端.md",
+    "机创赛备赛事宜.md",
+    "Winnie's notebook/命令操作/docker.md",
+    "attachments/Pasted image 20260306171454.png",
+    "attachments/Pasted image 20260306164700.png",
+    "attachments/Pasted image 20260306164538.png",
+    "ros相关.md",
+    "attachments/Pasted image 20260305173503.png",
+    "Winnie's notebook/四个docker容器/V-JEPA.md",
+    "3.2.md",
+    "Winnie's notebook/命令操作/attachments/Pasted image 20260303152723.png",
+    "Winnie's notebook/命令操作/attachments",
+    "五个自监督模型分析/vjepa.md",
+    "attachments/Pasted image 20260302114220.png",
+    "计算机就业检索指南.md",
+    "2.28待办事项.md",
+    "天气后端项目.md",
+    "点单小程序开发.md",
+    "网站的使用/网址大全.md",
+    "保研、考研、工作.md",
+    "寒假补课安排.md",
+    "dairy/2.7待办.md",
+    "dairy/学习心得2.5.md",
+    "dairy/学习心得2.6.md",
+    "模型设计.md",
+    "ai/ai.md",
+    "perceive.md",
+    "dairy/家教个人简历.md",
+    "attachments/c9c66e52dde1b85207cabef6e50b151a.jpg",
+    "attachments/00bf73a8974909ac700e0ed3e8716e9f.jpg",
+    "attachments/d763293ed3895d5106e1d1b5495a3547.jpg",
+    "attachments/Pasted image 20260206111243.png",
+    "李沐深度学习",
+    "学业相关/attachments",
+    "python库",
+    "未命名.base",
+    "学业相关",
+    "网站的使用",
+    "数据采集和处理",
+    "旅游攻略/attachments",
+    "旅游攻略",
+    "未命名.canvas"
+  ]
+}
